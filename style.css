@@ -1,0 +1,31 @@
+* html{
+    margin: 0;
+    padding: 0;
+}
+.headers ul {
+list-style: none;
+padding-top: 20px;
+}
+.headers ul li {
+    display: inline-block;
+    font-size: 20px;
+    font-family: ;
+}
+.headers ul li img{
+    width: 100px;
+    height: 100px;
+}
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
